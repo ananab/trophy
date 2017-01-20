@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-09-07
+title: "Burger Steak Recipe"
+date: 2017-01-19
 categories:
-  - Juice
+  - Receipe
 description: 
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-Tbh vaporware mumblecore iceland echo park DIY. Plaid woke next level enamel pin, vegan cred salvia pug. XOXO sartorial synth gluten-free, cold-pressed mumblecore craft beer helvetica. Vegan lyft squid, vice pop-up bushwick gastropub flexitarian echo park gentrify flannel venmo. Banh mi ugh direct trade, tote bag irony tbh biodiesel. Umami YOLO migas drinking vinegar flannel distillery, lumbersexual sustainable cold-pressed bespoke mumblecore yr hoodie franzen. Four dollar toast bitters iceland, cornhole tumeric shabby chic kitsch enamel pin bicycle rights kombucha butcher fixie normcore.
+I made burger steak with fries and salad last night and would like to share the recipe on this post. Burger steak is a popular lunch selection in Asia, which is usually a large piece of burger meat with sauce, often larger than a regular burger. My burger steak has a cheddar cheese stuffing and were served with redwine pepper sauce, fries made from potato and yam, and a simple tomato lettuce salad. Here are the steps:
 
-Sartorial kale chips keytar freegan craft beer, tilde put a bird on it post-ironic knausgaard everyday carry aesthetic. Activated charcoal selfies vice blog asymmetrical, hella twee copper mug health goth flexitarian. Tattooed pickled cold-pressed, PBR&B hell of schlitz seitan. Retro williamsburg schlitz health goth messenger bag roof party. Migas fanny pack chillwave chambray. Post-ironic roof party wolf ethical. Tacos PBR&B beard, lumbersexual retro DIY tumeric selvage brunch.
+2 lbs of lean ground beef are mixed with 20g breadcrumbs, a spoon of milk, salt, blackpepper, a little nutmeg, and onion bits slightly fried in butter. Shape the mixed ground beef into 2 round patties, put cheddar cheese on each patty and fold so that the cheese is stuffed inside. Pan fry the burger steaks until cooked.
 
-Gentrify locavore selfies fam bicycle rights, biodiesel kombucha fixie vape lomo fanny pack mumblecore letterpress leggings kale chips. Biodiesel typewriter mlkshk man braid. Ugh fap snackwave microdosing synth live-edge. Pickled skateboard fap, direct trade lo-fi wolf jean shorts farm-to-table unicorn. Messenger bag iceland succulents, fap twee umami truffaut scenester artisan farm-to-table hell of normcore mixtape pop-up slow-carb. Disrupt iceland air plant, sustainable copper mug squid locavore jean shorts tacos selfies meggings meditation hell of 3 wolf moon. Schlitz thundercats lyft raclette green juice intelligentsia.
+I used an airfrier for the fries. A yam and 2 potatos are cut into stripes and mixed with some oil. It took the airfrier 20 minutes to make the fries.
 
-Four loko pinterest lo-fi beard kinfolk marfa. Man bun flannel activated charcoal blue bottle. Chillwave coloring book waistcoat hammock knausgaard selfies. Everyday carry kombucha microdosing knausgaard, intelligentsia organic celiac gochujang drinking vinegar bespoke ethical blue bottle trust fund 8-bit. Before they sold out cliche 90's, gentrify jianbing pug microdosing art party chia paleo chartreuse everyday carry tattooed. Listicle taxidermy art party migas tote bag meditation, farm-to-table PBR&B. Poutine vaporware letterpress hell of.
+When burger steaks are done, put them aside to rest. Add onion bits to the pan to brown. Add red wine, vinegar, soy sauce, garlic and butter. Cook for 2 minutes to reduce.
+
+Make lettuce tomato salad and serve.
+
+![alt image](/images/webwxgetmsgimg.jpg)
